@@ -4,7 +4,7 @@ apt-get install git -y
 apt-get install python3.8 -y
 cd /home/ubuntu/
 TOKEN=""
-git clone https://$TOKEN@github.com/alledevops/blog-page-app-django-on-aws
+git clone https://$TOKEN@github.com/tdong1302/CloudProject
 cd /home/ubuntu/blog-page-app-django-on-aws
 apt-get install python3-pip -y
 apt-get install python3.8-dev default-libmysqlclient-dev -y
